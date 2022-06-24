@@ -6,7 +6,7 @@ This project was made as a mandatory task for HIMATIKA ITB MySQL short course in
 Classicmodel is a retail company which sales scale models classic (but not limited to) cars to various stores 
 around the world.
 
-## Problems
+## Problem
 1. Optimize the business environment (e.g making sure that good performance employees are given good incentives)
 2. See the business record of the company, is there any incremental or decremental trend?
 3. Optimize the marketing and business strategies
