@@ -1,4 +1,4 @@
-# Classicmodel-Company-Business
+# Classicmodel Company Business
 This project was made as a mandatory task for HIMATIKA ITB MySQL short course in Feb 2022.
 
 # Background
